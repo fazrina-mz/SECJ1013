@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 <img  
    src="https://github.com/fazrina-mz/learn-github/blob/main/exercise/fazrina-mz/images/Screenshot%202023-07-04%20162135.png" height="400" />
 </p>
