@@ -64,8 +64,8 @@ In summary, this folder structure appears to be organizing a GitHub repository b
 
 | No | Name | Folder |
 | --- | --- | :---: |
-| 1 | ADAM FIROZ | <a href="firoz" ><img src="https://github.com/fazrina-mz/SECJ1013/blob/main/folder.png" width="24px" height="24px" ></a> | 
-| 2 | YUSLIZA | <a href="yusliza" ><img src="https://github.com/fazrina-mz/SECJ1013/blob/main/folder.png" width="24px" height="24px" ></a> | 
+| 1 | ADAM FIROZ | <a href="firoz" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
+| 2 | YUSLIZA | <a href="yusliza" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 3 | AFIF HAZMIE ARSYAD BIN AGUS | <a href="AfifHazmie" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 4 | AHMAD AIMAN HAFIZI BIN MUHAMMAD | <a href="AimanHafizi619" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
 | 5 | AHMAD MUHAIMIN BIN AHMAD HAMBALI | <a href="Mincridible" ><img src="../images/folder.png" width="24px" height="24px" ></a> | 
