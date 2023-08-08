@@ -5,7 +5,7 @@
 
 ####Fazrina-MZ
 
-# Digital Logic Course
+# PT1 Course
 
 Welcome to the Digital Logic course! In this course, you will learn the fundamental concepts of digital logic design, including binary representation, Boolean algebra, logic gates, combinational and sequential circuits, and more. This course is suitable for beginners and those looking to refresh their knowledge in digital logic.
 
